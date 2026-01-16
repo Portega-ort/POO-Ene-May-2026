@@ -1,4 +1,4 @@
-package edu.pedro.ortega.actividad1.process;
+package edu.pedro.ortega.actividad0.process;
 
 public class Switch {
 
