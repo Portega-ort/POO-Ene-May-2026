@@ -22,7 +22,7 @@ public class Logaritmo {
         
         // Mientras el valor actual sea mayor o igual a la base, podemos dividir una vez más
         while (actual >= base) {
-            actual = División.ejecutar(actual, base);
+            actual = Division.ejecutar(actual, base);
             resultado = Suma.ejecutar(resultado, 1);
         }
         

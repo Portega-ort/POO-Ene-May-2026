@@ -3,7 +3,7 @@ package edu.pedro.ortega.Actividad2.calculadora.process;
 /**
  * Clase que implementa la operación de división.
  */
-public class División {
+public class Division {
     /**
      * Realiza la división de dos números utilizando restas iterativas.
      * Solo se utiliza la clase Resta para realizar la operación.

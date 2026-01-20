@@ -18,12 +18,12 @@ public class Potencia {
         double absExponente = Math.abs(exponente);
         
         for (int i = 0; i < absExponente; i++) {
-            resultado = Multiplicación.ejecutar(resultado, base);
+            resultado = Multiplicacion.ejecutar(resultado, base);
         }
         
         // Si el exponente es negativo, el resultado es 1 / resultado
         if (exponente < 0) {
-            return División.ejecutar(1, resultado);
+            return Division.ejecutar(1, resultado);
         }
         
         return resultado;

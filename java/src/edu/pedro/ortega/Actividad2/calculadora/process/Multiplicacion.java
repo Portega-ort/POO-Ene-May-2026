@@ -3,7 +3,7 @@ package edu.pedro.ortega.Actividad2.calculadora.process;
 /**
  * Clase que implementa la operación de multiplicación.
  */
-public class Multiplicación {
+public class Multiplicacion {
     /**
      * Realiza la multiplicación de dos números utilizando sumas iterativas.
      * Solo se utiliza la clase Suma para realizar la operación.

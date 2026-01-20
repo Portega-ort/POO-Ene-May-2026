@@ -76,10 +76,10 @@ public class CLI {
                         acumulado = Resta.ejecutar(acumulado, numero);
                         break;
                     case 3:
-                        acumulado = Multiplicación.ejecutar(acumulado, numero);
+                        acumulado = Multiplicacion.ejecutar(acumulado, numero);
                         break;
                     case 4:
-                        acumulado = División.ejecutar(acumulado, numero);
+                        acumulado = Division.ejecutar(acumulado, numero);
                         break;
                     case 5:
                         acumulado = Modulo.ejecutar(acumulado, numero);
